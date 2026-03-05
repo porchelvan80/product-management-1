@@ -1,0 +1,17 @@
+main .card {
+  border-radius: 0.75rem;
+}
+
+#alert {
+  margin-bottom: 1rem;
+}
+
+.product-thumb {
+  width: 48px;
+  height: 48px;
+  object-fit: contain;
+}
+
+table td, table th {
+  vertical-align: middle;
+}
